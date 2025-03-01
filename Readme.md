@@ -1,6 +1,6 @@
 # WinForm ile Semantic Kernel Entegrasyonu
 
-![Projenin Ekran Görüntüsü](./Images/.png)
+![Projenin Ekran Görüntüsü](./Images/img1.png)
 
 Bu proje, **WinForm** tabanlı bir uygulamaya **Semantic Kernel** entegrasyonunu içermektedir. Model olarak **Llama 3.1 8B** kullanılmış ve **Ollama** aracılığıyla lokal olarak çalıştırılmıştır.
 
